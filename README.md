@@ -1,11 +1,8 @@
 # PRODIGY_WD_01
 Responsive Landing Page using HTML, CSS and JavaScript.
-# 🌍 Responsive Travel Landing Page
-
-## 📌 Description
+Description
 A modern and responsive travel landing page developed using HTML, CSS, and JavaScript. The website features an attractive layout, smooth navigation, and responsive design for all devices.
-
-## ✨ Features
+✨ Features
 - Responsive Design
 - Modern User Interface
 - Navigation Bar
@@ -14,22 +11,14 @@ A modern and responsive travel landing page developed using HTML, CSS, and JavaS
 - Call-to-Action Buttons
 - Smooth Hover Effects
 - Mobile Friendly
-
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 - HTML5
 - CSS3
 - JavaScript
+🚀 Live Demo
+https://priyakvm0907-a11y.github.io/PRODIGY_WD_01/
 
-## 📁 Project Structure
-Task1-Landing-Page
-│── index.html
-│── style.css
-└── script.js
-
-## 🚀 Live Demo
-(Add your GitHub Pages link here)
-
-## 👩‍💻 Author
+👩‍💻 Author
 Priya Dharshini
 AI & DS Student
 Web Development Intern at Prodigy InfoTech
